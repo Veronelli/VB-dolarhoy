@@ -1,0 +1,10 @@
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\bin\Debug\DolarHoy.exe
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\bin\Debug\DolarHoy.pdb
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\bin\Debug\DolarHoy.xml
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\DolarHoy.vbproj.GenerateResource.Cache
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\DolarHoy.exe
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\DolarHoy.xml
+C:\Users\facu2\OneDrive\Documentos\Visual Studio 2008\Projects\22_08_2024\Actividades\DolarHoy\DolarHoy\obj\Debug\DolarHoy.pdb
